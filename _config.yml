@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Assia EL MOURTADAH"
   pronouns         : # example: "she/her"  
-  bio              : "Cyber Security Student"
+  bio              :   "Cyber Security Student"
   location         : "Morocco , Fès"
   employer         : "ENSAf"
   uri              : # URL
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #url
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #url
   researchgate     : # URL
   scopus           : # URL
 
