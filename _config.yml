@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "Assyapic.png"
   name             : "Assia EL MOURTADAH"
-  pronouns         : "elle/she"
+  #pronouns         : "elle/she"
   bio              : "Cyber Security Student"
   location         : "Morocco , Fès"
-  employer         : "ENSA Fès - Université Sidi Mohamed Ben Abdellah"
+  employer         : "ENSA Fès"
   uri              : # URL
   email            : "assia.elmourtadah@usmba.ac.ma"
 
