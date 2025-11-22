@@ -49,8 +49,8 @@ author:
 publication_category:
   books:
     title: 'Livres'
-  #manuscripts:
-    #title: 'Articles de revue'    
+  manuscripts:
+    title: 'Projets"'    
   conferences:
     title: 'Communications de conférence'
 
