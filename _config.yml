@@ -50,7 +50,7 @@ publication_category:
   books:
     title: 'Livres'
   manuscripts:
-    title: 'Projets"'    
+    title: ''    
   conferences:
     title: 'Communications de conférence'
 
