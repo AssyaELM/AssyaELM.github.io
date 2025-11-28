@@ -52,7 +52,7 @@ publication_category:
   manuscripts:
     title: ''    
   conferences:
-    title: 'Communications de conférence'
+    #title: 'Communications de conférence'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
